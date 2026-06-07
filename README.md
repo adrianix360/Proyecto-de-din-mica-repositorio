@@ -1,1 +1,1 @@
-# Proyecto-de-din-mica-repositorio
+# Proyecto-de-dinamica-repositorio
